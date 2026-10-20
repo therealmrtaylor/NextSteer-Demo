@@ -28,10 +28,11 @@ the full NextSteer has more systems and more settings, and it keeps growing with
 - 🎮 **Gamepad** — Smart Steering, fitted to each car while you drive
 - ⌨️ **Keyboard** — analog-like steering from digital keys
 - 🎛️ **Presets** — ready-made setups, and codes to share your own in any chat
+- 📏 **Steering Bar**: your input and the wheel on screen, and again when you watch a replay
+- 🌍 **7 languages** — English, Português, Español, Français, Italiano, Русский, 日本語
 
 > **About the built-in presets:** they are tuned to my own taste, so they may not feel right to you.
 > Try them, then adjust the settings and save your own preset — that is how NextSteer feels best.
-- 🌍 **7 languages** — English, Português, Español, Français, Italiano, Русский, 日本語
 
 ## Requirements
 
