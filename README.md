@@ -27,6 +27,7 @@ the full NextSteer has more systems and more settings, and it keeps growing with
 - 🖱️ **Mouse** — smooth, precise steering, with force feedback and auto counter-steer
 - 🎮 **Gamepad** — Smart Steering, fitted to each car while you drive
 - ⌨️ **Keyboard** — analog-like steering from digital keys
+- 🌀 **Wheel Hold**: drift with a free wheel on the gamepad and the keyboard
 - 🎛️ **Presets** — ready-made setups, and codes to share your own in any chat
 - 📏 **Steering Bar**: your input and the wheel on screen, and again when you watch a replay
 - 🌍 **7 languages** — English, Português, Español, Français, Italiano, Русский, 日本語
