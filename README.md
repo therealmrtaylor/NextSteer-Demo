@@ -17,7 +17,7 @@
 NextSteer gives mouse, gamepad and keyboard players of **Assetto Corsa** what a steering wheel would.
 It runs inside the game through **Custom Shaders Patch (CSP)** and works on every car.
 
-This is the **free demo**: try it, have fun, and tell us what you think. It is not the full version —
+This is the **free demo**: try it, have fun, and tell me what you think. It is not the full version —
 the full NextSteer has more systems and more settings, and it keeps growing with every update.
 
 <!-- a GIF of NextSteer in action (assets/demo.gif) -->
@@ -67,7 +67,7 @@ extension/lua/joypad-assist/NextSteerDemo
 
 ## Found a bug?
 
-Tell us on the [Discord](https://discord.gg/k7j4z3MPSU) and attach the `errors.log` file from
+Tell me on the [Discord](https://discord.gg/k7j4z3MPSU) and attach the `errors.log` file from
 `apps/lua/NextSteerDemo/` (and `extension/lua/joypad-assist/NextSteerDemo/`, if there is one).
 
 ---
